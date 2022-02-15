@@ -1,0 +1,48 @@
+body {
+    background-color: pink;
+}
+
+main {
+    background-color: green;
+    padding: 10px;
+    border: solid 15px blue;
+    margin: 4vh;
+}
+
+p {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+
+#mashed {
+    background-color: red;
+    padding: 4vw;
+    margin: 10px;
+}
+.potato {
+    color: blue;
+    background-color: #ffff00;
+    border-radius: 100px;
+    padding: 5vw;
+    margin: 2vh;
+    border:  20px dotted rebeccapurple;
+
+}
+
+iframe {
+    background-color: orange;
+    padding: 50px;
+}
+a p {
+    font-size: 36px;
+    background-color: aquamarine;
+}
+
+a {
+    background-color: blanchedalmond;
+}
+
+div {
+    background-color: brown;
+}
+
