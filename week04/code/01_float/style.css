@@ -1,0 +1,54 @@
+/* From the following tutorial
+https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Floats */
+
+
+body {
+	background: rgb(200,200,200);
+	width: 90%;
+	 max-width: 900px;
+	 margin: 0 auto;
+	 font: .9em/1.2 Arial, Helvetica, sans-serif
+
+}
+
+h2 {
+	background: pink;
+	position: absolute;
+
+}
+.theSpecial {
+  background-color: green;
+  padding: 10px;
+  color: #fff;
+}
+
+.theFloat{
+	float: left;
+	margin-right: 15px;
+	margin-bottom: 15px;
+	width: 40%;
+	height: 40%;
+	border-radius: 5px;
+	padding: 1em;
+
+}
+
+.theClear {
+  clear: left;
+}
+
+.theWrapper {
+  background-color: rgb(79,185,227);
+  padding: 10px;
+  color: #fff;
+	/* this nxt line can be used instead of .theWrapper::after */
+	/* overflow: auto; */
+	/* or for modern CSS + browsers*/
+	display: flow-root
+}
+
+/* .theWrapper::after {
+  content: "";
+  clear: both;
+  display: block;
+} */

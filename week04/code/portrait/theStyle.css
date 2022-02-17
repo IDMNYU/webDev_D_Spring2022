@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(214, 161, 63);
+}
+
+#theEyes {
+ text-align:center;
+ /* background-color: pink; */
+}
+
+button {
+    padding: 5vw;
+    border: solid 3px;
+}
+
+button:hover {
+    background-color:  rgb(214, 161, 63);
+    color:  rgb(214, 161, 63);
+   
+}
+#theNose {
+    height: 40vh;
+    width: 5px;
+    background-color: black;
+    margin-left: auto;
+    margin-right:auto;
+    transform: rotate(10deg);
+    
+}
+#theMouth {
+    display:flex;
+    justify-content: center;
+    border: solid red;
+   
+}
+
+
+#theMouth p {
+    background-color: white;
+    /* width: 50px; */
+    padding:2vw;
+}
+
+.theTeeth {
+    flex-grow: 1;
+    margin: 2px;
+}

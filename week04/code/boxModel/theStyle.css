@@ -19,13 +19,17 @@ p {
     padding: 4vw;
     margin: 10px;
 }
+p {
+    background-color: pink;
+}
 .potato {
     color: blue;
+    font-size: 50px;
     background-color: #ffff00;
     border-radius: 100px;
     padding: 5vw;
     margin: 2vh;
-    border:  20px dotted rebeccapurple;
+    border:  20px solid rebeccapurple;
 
 }
 

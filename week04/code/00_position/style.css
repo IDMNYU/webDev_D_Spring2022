@@ -1,0 +1,62 @@
+/* this is a comment in CSS */
+/* https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning  */
+h1 {
+	background: rgb(0,20,220);
+	/* // let's try this: */
+	font-family: 'Explora', cursive;
+	font-size: 10vw;
+}
+
+
+body {
+	font-family: 'Roboto Mono', monospace;
+	/* background: rgb(200,150,150); */
+	background-color: rgb(255,192,203);
+	
+}
+
+p {
+	background: rgba(255,255,255);
+	border: 5px solid green;
+	padding: 6vw;
+
+}
+
+
+
+
+/* i have made different positioning decisions to the <p> tag w/ the class .thePostition. turn the following code blocks off + on to see how they changed the web page */
+
+/* .thePosition {
+	background: pink;
+	position: relative;
+	top: 50px;
+	right: 100px;
+} */
+
+/* 
+.thePosition {
+	background: pink;
+	position: absolute;
+	top: 50px;
+	right: 100px;
+
+} */
+
+.thePosition {
+	 background: pink;
+	position: absolute;
+	top: 100px;
+	bottom: 100px;
+	left: 100px;
+	right: 100px;
+
+}
+
+#theTest {
+	background: lime;
+	position: absolute;
+	top: 10px;
+	left: 30px;
+	z-index: -1;
+}
