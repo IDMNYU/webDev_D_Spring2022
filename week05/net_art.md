@@ -17,7 +17,7 @@ Research which artwork you would like to present. Meet with your partner and onc
 
 Spend time with the work together and talk about the expirence of looking at it. Make notes - this conversation will lead to your talking points in the presentation. Take screen shots and/or recordings of yourself interacting with the work. If you each have a different experience of the piece - great! Show us and talk about the differences. Not simply "i liked it, s/he didn't" but actually what you each materially experienced on your different screens. 
 
-#### Presentations due during class 
+
 
 
 
