@@ -8,7 +8,7 @@ Tuesday + Thursday | 08:00 - 09:50 am | IDM - Room 308
 ***
 ```
 Professor: rebecca (marks) leopold
-Email: rebleo [at] nyu.edu | office hours by appointment- Monday, Tuesday or Thursday. Please schedule 24 hours in advance.
+Email: rebleo [at] nyu.edu | office hours by appt - Monday, Wednesday or Friday. Schedule at least 24 hours in advance.
 ```
 
 #### Course Pe-requisites:
