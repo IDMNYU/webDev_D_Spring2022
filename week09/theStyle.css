@@ -1,0 +1,14 @@
+body {
+    background-color: green;
+}
+
+
+button {
+    padding: 20vw;
+    border-radius: 25px;
+    background-color: yellow;
+}
+
+button:hover {
+    background-color: rgb(122,0,122);
+}
