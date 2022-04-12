@@ -1,0 +1,30 @@
+h1 {
+ box-sizing: content-box;
+}
+
+/* don't forget to write yr own styling! */
+body {
+background-color: pink;
+
+padding: 3vw;
+}
+
+
+div {
+background-color: green;
+padding: 3vh;
+margin: 2vh;
+}
+
+h3 {
+ font-size: 24px;
+}
+
+#target {
+ background-color: yellow;
+}
+
+#target:hover {
+ background-color: blue;
+}
+
